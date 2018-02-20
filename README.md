@@ -1,7 +1,8 @@
 # Galactic-Warrior
 
 It is a 2-D arcade game where you need to dodge various space obstacles such as planets, meteors etc to gain points and 
-set a high score .	
+set a high score .
+
 
 Features:
 * Difficulty level increases as you gain more points 
