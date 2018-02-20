@@ -2,7 +2,7 @@
 
 It is a 2-D arcade game where you need to dodge various space obstacles such as planets, meteors etc to gain points and 
 set a high score .
-!(assets/image/Photo.jpg "Galactic Warrior")
+![Galactic Warrior](assets/image/Photo.jpg "Galactic Warrior")
 
 Features:
 * Difficulty level increases as you gain more points 
