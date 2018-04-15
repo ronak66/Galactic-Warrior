@@ -4,13 +4,13 @@ It is a 2-D arcade game where you need to dodge various space obstacles such as 
 set a high score .
 ![Galactic Warrior](image/Photo.jpg "Galactic Warrior")
 
-Features:
+## Features:
 * Difficulty level increases as you gain more points 
 * Different obstacles have different speeds 
 * You get three lives to set a highscore 
 * Immersive background music for captivating the interest of players. 
 
-Keys:	
+## Keys:	
 * UP arrow - to move forward 
 * Down arrow - to move back 
 * Left arrow - to move left 
