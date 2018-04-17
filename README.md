@@ -16,4 +16,8 @@ set a high score .
 * Left arrow - to move left 
 * Right arrow - to move right 
 * Esc - to quit 
-	
+
+## Contributors
+### R Arvind
+* Github - [r-arvind](https://github.com/r-arvind)
+* Blog - [arvind](https://r-arvind.github.io)
